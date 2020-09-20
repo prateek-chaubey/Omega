@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyD1j8u8nwTuJbODoQS1TrMUwmvIGjuz7Kg",
+  authDomain: "hacking-9510f.firebaseapp.com",
+  databaseURL: "https://hacking-9510f.firebaseio.com",
+  projectId: "hacking-9510f",
+  storageBucket: "hacking-9510f.appspot.com",
+  messagingSenderId: "386752404748",
+  appId: "1:386752404748:web:71227abbc13692eb1efd29",
+  measurementId: "G-6J888K36B0"
 };
 
      
